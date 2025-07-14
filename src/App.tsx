@@ -7,7 +7,7 @@ import Header from './components/Header'
 
 function App() {
   return (
-    <BrowserRouter basename="/taskbotics/">
+    <BrowserRouter basename="/mywebapp/">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
