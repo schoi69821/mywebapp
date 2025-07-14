@@ -40,7 +40,14 @@ npm install
 npm run dev
 ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser
+4. Open http://localhost:5173 in your browser (for development only)
+
+### 🌐 Access the Live Site
+
+The application is deployed and accessible at:
+**https://schoi69821.github.io/mywebapp/**
+
+No need to run any local server - just click the link above!
 
 ## 📁 Project Structure
 
